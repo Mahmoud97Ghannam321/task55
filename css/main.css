@@ -1,0 +1,17 @@
+.service{
+    text-align: center;
+}
+
+.sss2 {
+    background-color: green;
+}
+.sos2{
+   
+    width: 33%;
+    height: 100px;
+    float: right;
+    text-align: center;
+}
+.clearfix {
+    clear: both;
+}   
